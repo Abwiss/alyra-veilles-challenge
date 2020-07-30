@@ -1,3 +1,5 @@
+"use strict"
+
 const entries = [
   { subject: "OpenSource", date: "03/06/2020", category: "WEB" },
   { subject: "HTML 5", date: "04/06/2020", category: "DEV WEB" },
